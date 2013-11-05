@@ -2,7 +2,7 @@ palindrome
 ==========
 
 I was challenged by my friend to write a script that searches for palindromes. I coded mine in Node.js
-and used recursion, while she coded hers in PHP and used a loop. I later also coded a non-recursive version,
+and used recursion, while she [coded hers](https://github.com/tausenne/palindromes) in PHP and used a loop. I later also coded a non-recursive version,
 because of a certain issue you probably know about.
 
 The outcome turned out to be a great learning experience. Here's what I found:
